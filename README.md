@@ -1,1 +1,1 @@
-# CS165-bitcoin
+# Bitcoin
